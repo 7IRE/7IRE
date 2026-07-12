@@ -2,8 +2,6 @@
 
 ### A passionate C++ developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7IRE&label=Profile views&color=0e75b6&style=flat" alt="7IRE" /> </p>
-
 - 🌱 I'm currently learning **Android**
 
 - 📫 How to reach me **lm3419631@gmail.com**
