@@ -11,18 +11,18 @@
 
 ---
 
-## 👋 About Me
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/user.svg"><img src="assets/icons/light/user.svg" height="24" align="top" alt=""></picture> About Me</h2>
 
 I'm a **C++ developer** with a competitive programming background, now building modern **Android** apps with **Kotlin** and **Jetpack Compose**.
 
-- ⚡ Competitive programming on Codeforces and LeetCode
-- 📱 Currently learning Android development (Kotlin, Jetpack Compose, Java)
-- 🧠 Interested in clean code, algorithms and solid fundamentals
-- 🎨 Dabbling in 3D with Blender
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/trophy.svg"><img src="assets/icons/light/trophy.svg" height="16" align="top" alt=""></picture> Competitive programming on Codeforces and LeetCode
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/smartphone.svg"><img src="assets/icons/light/smartphone.svg" height="16" align="top" alt=""></picture> Currently learning Android development (Kotlin, Jetpack Compose, Java)
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/code.svg"><img src="assets/icons/light/code.svg" height="16" align="top" alt=""></picture> Interested in clean code, algorithms and solid fundamentals
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/box.svg"><img src="assets/icons/light/box.svg" height="16" align="top" alt=""></picture> Dabbling in 3D with Blender
 
 ---
 
-## 🛠️ Tech Stack
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/wrench.svg"><img src="assets/icons/light/wrench.svg" height="24" align="top" alt=""></picture> Tech Stack</h2>
 
 **Languages**
 
@@ -51,17 +51,26 @@ I'm a **C++ developer** with a competitive programming background, now building 
 
 ---
 
-## 🌱 Currently Focused On
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/target.svg"><img src="assets/icons/light/target.svg" height="24" align="top" alt=""></picture> Currently Focused On</h2>
 
-| | |
-|---|---|
-| 📱 **Learning** | Android development with Kotlin and Jetpack Compose |
-| 🏆 **Practicing** | Competitive programming and problem solving |
-| 🔨 **Building** | Small Android projects to apply what I learn |
+<table>
+  <tr>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/graduation-cap.svg"><img src="assets/icons/light/graduation-cap.svg" height="18" align="top" alt=""></picture> <b>Learning</b></td>
+    <td>Android development with Kotlin and Jetpack Compose</td>
+  </tr>
+  <tr>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/trophy.svg"><img src="assets/icons/light/trophy.svg" height="18" align="top" alt=""></picture> <b>Practicing</b></td>
+    <td>Competitive programming and problem solving</td>
+  </tr>
+  <tr>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/layers.svg"><img src="assets/icons/light/layers.svg" height="18" align="top" alt=""></picture> <b>Building</b></td>
+    <td>Small Android projects to apply what I learn</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/trending-up.svg"><img src="assets/icons/light/trending-up.svg" height="24" align="top" alt=""></picture> GitHub Stats</h2>
 
 <div align="center">
 
@@ -74,7 +83,7 @@ I'm a **C++ developer** with a competitive programming background, now building 
 
 <div align="center">
 
-*Always learning, always shipping.* 🚀
+*Always learning, always shipping.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:4285F4&height=90&section=footer" width="100%" alt=""/>
 
